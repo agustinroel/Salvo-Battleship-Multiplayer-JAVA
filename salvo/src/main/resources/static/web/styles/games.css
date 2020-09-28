@@ -1,0 +1,24 @@
+.fondo {
+    background-image: url(https://s1.1zoom.me/b5050/806/World_Of_Warship_Ships_487364_2560x1440.jpg);
+    background-size: cover;
+}
+
+.login {
+    border-radius: 5%;
+}
+
+.firstPlace {
+    color: gold;
+}
+
+.secondPlace {
+    color: silver;
+}
+
+.thirdPlace {
+    color: rgb(205, 127, 50);
+}
+
+.medals {
+    color: transparent 
+}

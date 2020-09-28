@@ -1,0 +1,115 @@
+.pintado {
+    background-color: aqua;
+}
+
+.shoot {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fondo {
+    background-image: url(background.png);
+    background-size: cover;
+}
+
+.grid-stack-item-content {
+    background-repeat: no-repeat;
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+    left: 0px !important;
+    right: 0px !important;
+}
+
+.table td, .table th {
+    padding: 0rem;
+    height: 40px;
+    width: 40px;
+}
+
+.submarineHorizontal{
+    background-image: url('submarineHorizontal.png');
+    background-size: contain;
+}
+
+.carrierHorizontal{
+    background-image: url('carrierhor.png');
+    background-size: contain;
+}
+
+.patrolHorizontal{
+    background-image: url('patrolHorizontal.png');
+    background-size: contain;
+}
+
+.destroyerHorizontal{
+    background-image: url('destroyerhor.png');
+    background-size: contain;
+}
+
+.battleshipHorizontal{
+    background-image: url('battleshiphor1.png');
+    background-size: cover;
+}
+
+.submarineVertical{
+    background-image: url('submarinever.png');
+    background-size: 100% 100%;
+    width: 40px !important;
+}
+
+.carrierVertical{
+    background-image: url('carrierVertical.png');
+    background-size: 100% 100%;
+    width: 40px !important;
+}
+
+.patrolVertical{
+    background-image: url('patrolboatver.png');
+    background-size: 100% 100%;
+    width: 40px !important;
+}
+
+.destroyerVertical{
+    background-image: url('destroyerVertical.png');
+    background-size: 100% 100%;
+    width: 40px !important;
+}
+
+.battleshipVertical{
+    background-image: url('battleshipver.png');
+    background-size: 100% 100%;
+    width: 40px !important;
+}
+
+#grid{
+    height: 400px;
+    width: 400px;
+}
+
+#grid-ships{
+    width: 440px;
+    padding-left: 40px;
+    padding-top: 40px;
+    background-image: url(grid-bkg.png);
+    background-size: contain;
+}
+
+.grid-stack-10{
+    background-image: url(ocean.png);
+    background-size: contain;
+}
+
+#salvo-grid{
+    height: 440px;
+    width: 440px;  
+}
+
+.salvo-table{
+    height: 440px;
+    width: 440px;
+}
+
+.selected{
+    background-color: orange;
+    
+}
+
